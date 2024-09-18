@@ -13,7 +13,7 @@ This repository includes assignments, notes, and practical exercises from the co
 
 ## Contents
 
-- [Assignments](assignments/) – Jupyter notebooks with practical exercises and examples.
-- [Notebooks](essays/) – Essays reflecting on class theory but also in topics that grasped my interest.
-- [Lectures](books/) – Useful resources.
+- [Assignments](Assignments/) – Jupyter notebooks with practical exercises and examples.
+- [Notebooks](Essays/) – Essays reflecting on class theory but also in topics that grasped my interest.
+- [Books](Books/) – Useful resources.
 
