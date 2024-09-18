@@ -5,7 +5,6 @@ This repository contains materials and code related to the Machine Learning cour
 ## Course Details
 
 - **Course**: Machine Learning
-- **Faculty**: Telecom Faculty
 - **Professor**: Enric Monte Moreno
 - **Program**: Master's Degree
 
